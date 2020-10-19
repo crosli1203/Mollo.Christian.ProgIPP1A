@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1603110561 source:c:\users\crosli\desktop\parciallab1\parcial 1 lab\abm mascotas\mollo.christian.progipp1a\ejerciciodos.c
+	<stdio.h>
+	<stdlib.h>
+	"ejercicioDos.h"
+
+1603110561 c:\users\crosli\desktop\parciallab1\parcial 1 lab\abm mascotas\mollo.christian.progipp1a\ejerciciodos.h
+
+1603110561 source:c:\users\crosli\desktop\parciallab1\parcial 1 lab\abm mascotas\mollo.christian.progipp1a\ejerciciouno.c
+	<stdio.h>
+	<stdlib.h>
+	"ejercicioUno.h"
+
+1603110561 c:\users\crosli\desktop\parciallab1\parcial 1 lab\abm mascotas\mollo.christian.progipp1a\ejerciciouno.h
+
+1603110561 source:c:\users\crosli\desktop\parciallab1\parcial 1 lab\abm mascotas\mollo.christian.progipp1a\ejerciciotres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ejercicioTres.h"
+
+1603110598 c:\users\crosli\desktop\parciallab1\parcial 1 lab\abm mascotas\mollo.christian.progipp1a\ejerciciotres.h
+
